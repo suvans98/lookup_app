@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "379750176502",
+    "firebase_url": "https://encoderdecoder-d43f9.firebaseio.com",
+    "project_id": "encoderdecoder-d43f9",
+    "storage_bucket": "encoderdecoder-d43f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379750176502:android:d7b3f5fd713db021617ed7",
+        "android_client_info": {
+          "package_name": "com.example.lookup_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379750176502-fscq9pd8j0q4fetl15989pd0lrlmr0ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD48n50eMkxnN5s7JdZ_mtsdIv_O0gc4Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379750176502-fscq9pd8j0q4fetl15989pd0lrlmr0ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
